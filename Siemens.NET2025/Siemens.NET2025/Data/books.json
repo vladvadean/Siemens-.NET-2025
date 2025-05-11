@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 0,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "AvailableQuantity": 2,
+    "Categories": [
+      3,
+      0
+    ]
+  },
+  {
+    "Id": 1,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "AvailableQuantity": 0,
+    "Categories": [
+      3,
+      6
+    ]
+  },
+  {
+    "Id": 3,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "AvailableQuantity": 0,
+    "Categories": [
+      3,
+      6
+    ]
+  },
+  {
+    "Id": 4,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "AvailableQuantity": 0,
+    "Categories": [
+      3,
+      6
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "AvailableQuantity": 0,
+    "Categories": [
+      3,
+      6
+    ]
+  }
+]

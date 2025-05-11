@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 0,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "AvailableQuantity": 3,
+    "Categories": [
+      3,
+      0
+    ]
+  }
+]

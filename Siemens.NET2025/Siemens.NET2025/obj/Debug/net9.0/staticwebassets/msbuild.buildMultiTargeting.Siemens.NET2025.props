@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Siemens.NET2025.props" />
+</Project>
