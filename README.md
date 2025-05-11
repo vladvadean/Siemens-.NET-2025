@@ -13,14 +13,15 @@ Since the main user of the application is a library administrator let's enhance 
 # Architecture
 
 The architecture chosen is a standard multilayer architecture containing the: Controller, Service, Repository, Model layers. As for the storage of the data I chose to store it in .JSON files in the Data package. Each layer has its own package.
-![img1](https://github.com/user-attachments/assets/881eb6e5-dd15-4d15-8edd-8862897a599e)
+<img src="https://github.com/user-attachments/assets/881eb6e5-dd15-4d15-8edd-8862897a599e" width="400"/>
 
-![img2](https://github.com/user-attachments/assets/e8c8da99-1bf6-43b2-ad1b-b140c4edd2ff)
+<img src="https://github.com/user-attachments/assets/e8c8da99-1bf6-43b2-ad1b-b140c4edd2ff" width="400"/>
+
 
 ## Database
 
 The database contains two tables: books and lendings. The lending is an additional entity created by me to store the records of the books that were borrowed and returned, at what time and date, and by which user.  
-![tables drawio](https://github.com/user-attachments/assets/060d8a52-4e45-46a6-a06e-a7e2cfe74790)
+<img src="https://github.com/user-attachments/assets/060d8a52-4e45-46a6-a06e-a7e2cfe74790" width="400"/>
 
 ## Endpoints
 ### 📖 Book Management
